@@ -3,7 +3,7 @@ class Solution {
 Arrays.sort(nums);
 int n=nums.length;
     int freq=1;
-    int ans=nums[0];
+
     for(int i=1;i<n;i++){
         if(nums[i]==nums[i-1]){
             freq++;
