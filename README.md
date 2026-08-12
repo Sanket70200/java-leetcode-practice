@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,13 +31,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0056-merge-intervals) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
