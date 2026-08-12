@@ -1,26 +1,19 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        
-        String str1=s.toLowerCase();
-        String str2=t.toLowerCase();
 
-
-        str1=str1.replace(" ","");
-
-        str2=str2.replace(" ","");
-
-        int counts []=new int [26];
-
-        for(int i=0;i<str1.length();i++){
-            counts[str1.charAt(i)-'a']++;
+        if (s.length() != t.length()) {
+            return false;
         }
 
-        for(int i=0;i<str2.length();i++){
-            counts[str2.charAt(i)-'a']--;
+        int[] freq = new int[26];
+
+        for (int i = 0; i < s.length(); i++) {
+            freq[s.charAt(i) - 'a']++;
+            freq[t.charAt(i) - 'a']--;
         }
 
-        for(int count:counts){
-            if(count!=0){
+        for (int i = 0; i < 26; i++) {
+            if (freq[i] != 0) {
                 return false;
             }
         }
