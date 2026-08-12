@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -21,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
