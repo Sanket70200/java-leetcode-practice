@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0049-group-anagrams) |
@@ -64,6 +65,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
