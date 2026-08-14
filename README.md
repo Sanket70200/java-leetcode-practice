@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0283-move-zeroes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sanket70200/java-leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
