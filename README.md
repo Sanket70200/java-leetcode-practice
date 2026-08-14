@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0283-move-zeroes) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0268-missing-number) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0268-missing-number) |
 ## String
@@ -102,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
