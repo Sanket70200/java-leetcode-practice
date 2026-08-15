@@ -150,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
