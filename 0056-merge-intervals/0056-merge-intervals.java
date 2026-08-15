@@ -24,15 +24,15 @@ class Solution {
 //      return list.toArray(new int[list.size()][]);
 
 
-
 if(intervals.length<=1){
     return intervals;
 }
 
 Arrays.sort(intervals,Comparator.comparingInt(i->i[0]));
-List<int []> list=new ArrayList<>();
-int newIntervals[]=intervals[0];
+List<int[]> list =new ArrayList<>();
+int [] newIntervals=intervals[0];
 list.add(newIntervals);
+
 for(int []interval:intervals){
     if(interval[0]<=newIntervals[1]){
         newIntervals[1]=Math.max(newIntervals[1],interval[1]);
@@ -40,7 +40,7 @@ for(int []interval:intervals){
         newIntervals=interval;
         list.add(newIntervals);
     }
-}return list.toArray(new int[list.size()][]);
-
+}
+return list.toArray(new int[list.size()][]);
 }
 }
