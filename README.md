@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0088-merge-sorted-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0055-jump-game) |
 ## Stack
 |  |
 | ------- |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0197-rising-temperature) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
