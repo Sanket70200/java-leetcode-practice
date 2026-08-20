@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0704-binary-search) |
@@ -222,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
