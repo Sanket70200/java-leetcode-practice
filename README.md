@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0049-group-anagrams) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0704-binary-search) |
 ## Bit Manipulation
