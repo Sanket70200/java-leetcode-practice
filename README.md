@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Sanket70200/java-leetcode-practice/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Sanket70200/java-leetcode-practice/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -253,4 +255,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Sanket70200/java-leetcode-practice/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
