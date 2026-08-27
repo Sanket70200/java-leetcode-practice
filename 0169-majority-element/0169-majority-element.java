@@ -56,23 +56,22 @@ class Solution {
 // }
 // return nums[0];
 
-
-
 int n=nums.length;
-for(int i=0;i<n;i++){
-    int count=0;
-    for(int j=0;j<n;j++){
-        if(nums[i]==nums[j]){
-            count++;
-        }
-    }
-
-    if(count>n/2){
-        return nums[i];
-    }
+Arrays.sort(nums);
+int freq=1;
+for(int i=1;i<n;i++){
+if(nums[i]==nums[i-1]){
+    freq++;
+}else{
+    freq=1;
 }
 
-return -1;
+if(freq > n/2){
+    return nums[i];
+}
+}
+
+return nums[0];
 }
 
 }
