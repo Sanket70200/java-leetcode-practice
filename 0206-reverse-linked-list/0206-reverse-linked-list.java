@@ -25,13 +25,14 @@ class Solution {
 
 
 
-ListNode currNode=head;
+ListNode curr=head;
 ListNode prev=null;
-while(currNode!=null){
-    ListNode nextNode=currNode.next;
-    currNode.next=prev;
-    prev=currNode;
-    currNode=nextNode;
+
+while(curr!=null){
+    ListNode nextNode=curr.next;
+    curr.next=prev;
+    prev=curr;
+    curr=nextNode;
 }
 return prev;
     }
