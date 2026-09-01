@@ -40,37 +40,20 @@ class Solution {
 
 //sorting
 
-// int n=nums.length;
-// int freq=1;
-// Arrays.sort(nums);
-// for(int i=1;i<n;i++){
-//     if(nums[i]==nums[i-1]){
-//         freq++;
-//     }else{
-//         freq=1;
-//     }
-
-//     if(freq>n/2){
-//         return nums[i];
-//     }
-// }
-// return nums[0];
-
-int n=nums.length;
 Arrays.sort(nums);
 int freq=1;
-for(int i=1;i<n;i++){
-if(nums[i]==nums[i-1]){
-    freq++;
-}else{
-    freq=1;
-}
+for(int i=1;i<nums.length;i++){
+    if(nums[i]==nums[i-1]){
+         freq++;
+    }else{
+        freq=1;
+    }
 
-if(freq > n/2){
+
+if(freq>nums.length/2){
     return nums[i];
 }
 }
-
 return nums[0];
 }
 
