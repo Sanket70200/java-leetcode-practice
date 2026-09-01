@@ -10,13 +10,13 @@ class Solution {
     //    return j;
 
 
-    int ptr=0;
-    for(int i=0;i<nums.length;i++){
+int ptr=0;
+for(int i=0;i<nums.length;i++){
     if(nums[i]!=val){
         nums[ptr]=nums[i];
         ptr++;
     }
-    }
-    return ptr;
+}
+return ptr;
     }
 }
