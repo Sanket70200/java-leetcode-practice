@@ -12,14 +12,13 @@ class Solution {
 
 
 int n=nums.length;
-int actualSum=n*(n+1)/2;
-int curr=0;
+int actualsum=n*(n+1)/2;
+int currentsum=0;
 for(int i=0;i<n;i++){
- curr+=nums[i];
+currentsum+=nums[i];
 }
-
-int ans=actualSum-curr;
-  return ans;
-    }
+int ans=actualsum-currentsum;
+return ans;
   
+}
 }
