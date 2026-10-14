@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0344-reverse-string) |
 ## Dynamic Programming
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -198,11 +200,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0509-fibonacci-number) |
 ## Database
