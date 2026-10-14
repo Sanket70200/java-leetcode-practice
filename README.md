@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0704-binary-search) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sanket70200/java-leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0509-fibonacci-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/Sanket70200/java-leetcode-practice/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Tree
 |  |
 | ------- |
@@ -282,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0513-find-bottom-left-tree-value) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Sanket70200/java-leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
